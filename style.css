@@ -78,3 +78,15 @@ footer{
     height: 200px;
     justify-content: center; 
 }
+.encabezado{
+    width: 1018px
+}
+.link 
+{
+    text-decoration-line: none;
+    color: #59C1BD;
+}
+.icono
+{
+    width: 50px;
+}
